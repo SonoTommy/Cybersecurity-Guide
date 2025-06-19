@@ -3,7 +3,7 @@
 _Target IP: **10.10.2.71**_  
 
 > This write-up walks through every task in the **RootMe** room, from deployment to privilege escalation.  
-> Replace the screenshot filenames (`screenshot1.png`, `screenshot2.png`, …) with your own captures.
+> Go to https://tryhackme.com/room/rrootme
 
 ---
 
